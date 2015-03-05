@@ -1,0 +1,30 @@
+{
+  "name": "song-suggest",
+  "version": "1.0.0",
+  "description": "Application to find songs similiar to one you love",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "flux",
+    "immutable",
+    "superagent"
+  ],
+  "author": "Dan Sackett",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.2.1",
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "reactify": "^1.0.0",
+    "vinyl-source-stream": "^1.0.0"
+  },
+  "dependencies": {
+    "flux": "^2.0.1",
+    "react": "^0.12.2",
+    "superagent": "^0.21.0",
+    "underscore": "^1.8.2"
+  }
+}
